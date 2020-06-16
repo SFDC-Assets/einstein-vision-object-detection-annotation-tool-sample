@@ -4,6 +4,10 @@ Sample annotation tool to label images for Einstein Vision Object Detection.
 
 
 ## Set up
+### npm version
+This code does not work with node 13.x or better, and probably not with node v12.x. 
+Use nvm (Node Version Manager) and run with node 11.15.0. 
+
 ### Install
 
 Type the commands below.
